@@ -21,8 +21,7 @@ This project was designed for Dr Teeth Dental Care & Implant Centre kerala, a co
 
 Figma Design File Link
 
-
-"[Paste your Figma link here]"
+https://spool-trio-45230087.figma.site/
 
 
 
@@ -55,16 +54,16 @@ Pages Designed
 
 Features Included
 
-✔ Mobile-first design
-✔ Easy appointment booking flow
-✔ Guest login option
-✔ Service-based booking
-✔ Dentist preference selection
-✔ Calendar-based date picker
-✔ Time slot selection
-✔ Appointment summary
-✔ Confirmation screen
-✔ Rescheduling option
+. Mobile-first design
+. Easy appointment booking flow
+. Guest login option
+. Service-based booking
+. Dentist preference selection
+. Calendar-based date picker
+. Time slot selection
+. Appointment summary
+. Confirmation screen
+. Rescheduling option
 
 
 
